@@ -6,7 +6,7 @@
 Developer Intern **ที่ บริษัท คราทอส อินโนเทค จำกัด**
 - พัฒนา WebSite E-commerce โดยใช้ PHP เป็น Backend
 - ทำ Frontend ด้วย HTML CSS 
-- ใช้ Database เป็น msSQL
+- ใช้ Database เป็น SQL Server
 
 ---
 
